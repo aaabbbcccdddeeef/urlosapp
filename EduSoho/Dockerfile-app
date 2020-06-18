@@ -1,0 +1,2 @@
+FROM Dockerfile-base
+COPY edusoho-8.6.20.zip /home/
